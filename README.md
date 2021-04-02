@@ -1,6 +1,6 @@
 # Anayra's Shoe Rack
 
-(Live Site)[https://anayaras-shoe-rack.web.app/]
+[Live Site](https://anayaras-shoe-rack.web.app/)
 
 It is a simple E-commerce website for buying shoes of different brand e.g. Nike , Adidas , Puma etc. Some features of the website is listed below -
 
