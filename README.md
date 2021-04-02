@@ -12,5 +12,7 @@ It is a simple E-commerce website for buying shoes of different brand e.g. Nike 
 # Future updates
 
 1.Admin and User access will be separated.
+
 2.User can buy multiple items.
+
 3.Payment Method
